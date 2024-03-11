@@ -1,0 +1,12 @@
+.container {
+  background-color: lightblue; /* Change this for your desired color */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
